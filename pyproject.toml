@@ -1,0 +1,19 @@
+[project]
+name = "football-book-code"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "nfl_data_py",
+    "pandas",
+    "numpy",
+    "seaborn",
+    "matplotlib",
+    "statsmodels",
+    "scipy",
+    "scikit-learn",
+    "lxml",
+        "jupyter",
+    "ipykernel",
+]
