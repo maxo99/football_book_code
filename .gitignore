@@ -1,4 +1,7 @@
 .vscode/*
+data/*
+*.parquet
+__pycache__/
 *.jpg
 *.png
 *.csv
